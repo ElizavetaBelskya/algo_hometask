@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# .idea
+.idea/
+
+# User-specific files
+*.iml
+*.iws
+*.ipr
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+crashlytics.properties
